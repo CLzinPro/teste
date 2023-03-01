@@ -10,7 +10,7 @@
 "pages": 1,
 "results": [
 {
-"name": "VIVO SSL clzin EXEMPLO",
+"name": "VIVO SSL clzin",
 "config_v2ray": "",
 "server_hostname": "clzin24",
 "description": "SSL ",
@@ -23,7 +23,7 @@
 "category_id": 1,
 "v2ray_uuid": "",
 "primary_dns_server": "8.8.8.8",
-"payload": "GET wss://ayuda.tigo.com.sv HTTP/1.1[crlf]Host: charlesluis.tk[crlf]Upgrade: websocket[crlf][crlf]",
+"payload": "GET wss://ayuda.tigo.com.sv HTTP/1.1[crlf]Host: br2.charlesluis.tk[crlf]Upgrade: websocket[crlf][crlf]",
 "status": "ACTIVE",
 "secondary_dns_server": "8.8.4.4",
 "sni": "ayuda.tigo.com.sv",
@@ -58,7 +58,7 @@
 "category_id": 1,
 "v2ray_uuid": "",
 "primary_dns_server": "8.8.8.8",
-"payload": "GET / HTTP/1.1[crlf]Host: charlesluis.tk[crlf]Upgrade: Websocket[crlf][crlf]",
+"payload": "GET / HTTP/1.1[crlf]Host: br2.charlesluis.tk[crlf]Upgrade: Websocket[crlf][crlf]",
 "status": "ACTIVE",
 "secondary_dns_server": "8.8.4.4",
 "sni": "",
