@@ -18,7 +18,7 @@
 "server_port": 443,
 "icon_image": "https://i.imgur.com/R8VEftk.jpg",
 "user_id": 2,
-"password": "",
+"password": "1234",
 "udp_port": "7300",
 "category_id": 1,
 "v2ray_uuid": "",
@@ -45,7 +45,7 @@
 }
 },
 {
-"name": "VIVO DIRECT clzin EXEMPLO",
+"name": "VIVO DIRECT clzin 2 EXEMPLO",
 "SSH": "104.18.6.80",
 "server_hostname": "104.18.6.80",
 "description": "DIRECT ",
